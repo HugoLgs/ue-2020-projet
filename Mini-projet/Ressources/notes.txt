@@ -1,0 +1,18 @@
+Notes API OMDb
+clé api : a9d94d09
+http://www.omdbapi.com/?i=tt3896198&apikey=a9d94d09
+
+dépot github de l'API
+https://github.com/omdbapi/OMDb-API/
+
+depo github pour le projet
+https://github.com/HugoLgs/ue-2020-projet
+
+terms of use
+http://www.omdbapi.com/legal.htm
+
+tuto:
+https://youtu.be/UZtruL7svkc?si=hcAVjmVhbcFRHXD1
+
+doc
+https://readthedocs.org/projects/omdbpy/downloads/pdf/latest/
